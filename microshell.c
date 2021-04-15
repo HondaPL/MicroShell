@@ -2,7 +2,6 @@
 #include <unistd.h>
 #include <string.h>
 #include <stdlib.h>
-#include <wait.h>
 #include <sys/stat.h>
 #include <sys/types.h>
 #include <errno.h>
